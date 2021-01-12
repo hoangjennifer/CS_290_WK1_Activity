@@ -1,2 +1,2 @@
-# cs-290-hw1
-For HW1
+# CS_290_WK1_Activity
+Week 1 Activity, Get Git Going!
